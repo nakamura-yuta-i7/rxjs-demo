@@ -1,0 +1,2 @@
+require("./modules/index.ts");
+console.dir({ yuta: "nakamura" });
